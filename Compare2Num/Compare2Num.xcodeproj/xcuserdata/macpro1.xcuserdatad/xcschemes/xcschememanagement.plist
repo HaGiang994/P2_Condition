@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>max2Num.xcscheme</key>
+		<key>Compare2Num.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>48C379151C7C00C5006CD3C1</key>
+		<key>48C3793B1C7C0A71006CD3C1</key>
 		<dict>
 			<key>primary</key>
 			<true/>

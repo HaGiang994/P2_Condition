@@ -1,6 +1,6 @@
 //
 //  main.m
-//  max2Num
+//  Compare2Num
 //
 //  Created by MacPro1 on 2/23/16.
 //  Copyright © 2016 MacPro1. All rights reserved.
@@ -16,22 +16,22 @@
 @implementation SimpleClass
 // method returning the max between two number
 - (int)max:(int)num1 andNum2:(int)num2{
-//local variable declaration
-int result;
-
-if(num1 > num2){
-    result = num1;
-}
-else{
-    result = num2;
-}
-
+    //local variable declaration
+    int result;
+    
+    if(num1 > num2){
+        result = num1;
+    }
+    else{
+        result = num2;
+    }
+    
     return result;
 }
 @end
 
 int main(int argc, const char * argv[]) {
-  //local variable definition
+    //local variable definition
     int a = 100;
     int b = 200;
     int ret;
@@ -41,3 +41,4 @@ int main(int argc, const char * argv[]) {
     NSLog(@"Max value is: %d\n",ret);
     return 0;
 }
+
