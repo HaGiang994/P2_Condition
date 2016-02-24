@@ -26,6 +26,7 @@
     return result;
 }
 @end
+
 int main(int argc, const char * argv[]) {
     int n;
     NSLog(@"Please enter a value of n:");
